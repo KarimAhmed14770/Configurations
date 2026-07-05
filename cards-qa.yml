@@ -1,0 +1,14 @@
+
+
+cards:
+  message: "welcome to the bank cards service"
+  contactDetails:
+    name: "name of the card support qa"
+    email: "email of the card support qa"
+  onCallSupport:
+    - (555) 34567
+    - (666) 89762
+
+
+build:
+  version: 2.4

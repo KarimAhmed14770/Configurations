@@ -1,0 +1,14 @@
+
+
+accounts:
+  message: "accounts contact information qa"
+  contactDetails:
+    name: "name of the contact qa"
+    email: "email of the contact qa"
+  onCallSupport:
+    - (555) 34567
+    - (666) 89762
+
+
+build:
+  version: 3.0

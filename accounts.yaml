@@ -1,0 +1,14 @@
+
+
+accounts:
+  message: "accounts contact information default"
+  contactDetails:
+    name: "name of the contact default"
+    email: "email of the contact default"
+  onCallSupport:
+    - (555) 34567
+    - (666) 89762
+
+
+build:
+  version: 1.0

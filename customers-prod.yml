@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+customers:
+  message: "welcome to the bank customer service"
+  contactDetails:
+    name: "name of the customer support prod"
+    email: "email of the customer support prod"
+  onCallSupport:
+    - (555) 34567
+    - (666) 89762
+
+
+build:
+  version: 3.6

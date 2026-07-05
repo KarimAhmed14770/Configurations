@@ -1,0 +1,14 @@
+
+
+accounts:
+  message: "accounts contact information prod"
+  contactDetails:
+    name: "name of the contact prod"
+    email: "email of the contact prod"
+  onCallSupport:
+    - (555) 34567
+    - (666) 89762
+
+
+build:
+  version: 2.5

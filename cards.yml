@@ -1,0 +1,17 @@
+
+
+
+
+
+cards:
+  message: "welcome to the bank cards service"
+  contactDetails:
+    name: "name of the card support default"
+    email: "email of the card support default"
+  onCallSupport:
+    - (555) 34567
+    - (666) 89762
+
+
+build:
+  version: 2.3
