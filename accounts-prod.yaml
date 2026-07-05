@@ -4,7 +4,7 @@ accounts:
   message: "accounts contact information prod"
   contactDetails:
     name: "name of the contact prod"
-    email: "email of the contact prod"
+    email: "6aef8285404ea09217aaddb5651dbc72630c575046b6a3d6955819d553469bbacde2cbeea81a77dea903c910c2f45704"
   onCallSupport:
     - (555) 34567
     - (666) 89762
