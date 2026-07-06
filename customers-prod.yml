@@ -8,7 +8,7 @@
 customers:
   message: "welcome to the bank customer service"
   contactDetails:
-    name: "name of the customer support prod"
+    name: "name of the customer support prod oh boy he is automating configurations"
     email: "email of the customer support prod"
   onCallSupport:
     - (555) 34567
